@@ -1,2 +1,3 @@
-# MIT6.0.0.1-problems
-MITx: 6.00.1x - MIT's problems programming with Python language. 
+# MIT 6.0.0.1x
+MITx 6.00.1x - Massachusetts Institute of Technology University's introduction to computer science and programming using Python. 
+Problems programming with Python language. 
